@@ -1,0 +1,23 @@
+{
+  "name": "yvonneweb",
+  "version": "1.0.0",
+  "description": "Build my own website including front-end and back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tailcloud/Profile-Website-Nodejs.git"
+  },
+  "keywords": [
+    "profile",
+    "web"
+  ],
+  "author": "Yvonne Shih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tailcloud/Profile-Website-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Tailcloud/Profile-Website-Nodejs#readme"
+}
